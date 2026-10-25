@@ -20,46 +20,7 @@
       }
     ]
   },
-  "currentVersion": {
-    "versionName": "3.0.0",
-    "releaseDate": "15/02/2025",
-    "title": "Bản cập nhật lớn - Giao diện iOS & Tính năng mới",
-    "description": "Trải nghiệm thiết kế Liquid Glass phong cách iOS sang trọng, hỗ trợ chế độ xoay dọc và nâng cấp trải nghiệm đồng hồ chờ.",
-    "features": [
-      {
-        "id": 1,
-        "title": "Chế độ Đồng hồ Dọc (Vertical Mode)",
-        "description": "Tự động điều chỉnh giao diện đồng hồ khi xoay ngang/dọc thiết bị, giúp bạn đặt điện thoại linh hoạt trên chân đế.",
-        "imageUrl": "img_intro_vertical",
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "icon": "ic_fullscreen_24"
-      },
-      {
-        "id": 2,
-        "title": "Giao diện iOS Liquid Glass mới",
-        "description": "Giao diện kính trong suốt tinh tế với hiệu ứng mờ nhòe bối cảnh, bo góc mượt mà chuẩn phong cách iOS.",
-        "imageUrl": "img_intro_user_feedback",
-        "videoUrl": null,
-        "icon": "ic_star_shine"
-      },
-      {
-        "id": 3,
-        "title": "Nâng cấp Bấm giờ Pomodoro",
-        "description": "Giao diện tập trung làm việc trực quan hơn, tích hợp âm thanh tích tắc dịu nhẹ thư giãn.",
-        "imageUrl": "img_intro_new_pomodoro",
-        "videoUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
-        "icon": "ic_pomodoro_focus"
-      },
-      {
-        "id": 4,
-        "title": "Hình nền Gradient & Tùy biến màu sắc",
-        "description": "Tùy chỉnh bảng màu độc đáo, bật/tắt hình nền nghệ thuật đa dạng theo sở thích riêng.",
-        "imageUrl": "img_intro_color_background",
-        "videoUrl": null,
-        "icon": "ic_table_lamp_24"
-      }
-    ]
-  },
+  "currentVersion": {},
   "nextVersion": {
     "versionName": "3.1.0",
     "expectedReleaseDate": "20/03/2025",

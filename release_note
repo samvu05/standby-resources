@@ -1,0 +1,80 @@
+{
+  "appConfig": {
+    "appName": "Tên Ứng Dụng",
+    "lastVersionCode": 21,
+    "lastVersionName": "1.0.0",
+    "lastRelease": "23/20/2024",
+    "releaseNote": "",
+    "supportEmail": "support@example.com",
+    "externalLinks": {
+      "companyLink": "https://example.com/company",
+      "developerLink": "https://example.com/privacy",
+      "privacyPolicy": "https://example.com/privacy",
+      "termsOfService": "https://example.com/terms"
+    },
+    "relatedApps": [
+      {
+        "name": "QR scanner",
+        "cover": "https://example.com/terms",
+        "link": "https://play.store.com/app"
+      }
+    ]
+  },
+  "releaseNote": {
+    "developerMessage": "Cảm ơn bạn đã sử dụng ứng dụng của chúng tôi! Chúng tôi luôn nỗ lực để mang đến trải nghiệm tốt nhất cho người dùng.",
+    "upcomingFeatures": [
+      {
+        "title": "Tính năng 1",
+        "description": "Mô tả chi tiết về tính năng 1.",
+        "expectedReleaseDate": "2024-10-15"
+      },
+      {
+        "title": "Tính năng 2",
+        "description": "Mô tả chi tiết về tính năng 2.",
+        "expectedReleaseDate": "2024-11-05"
+      }
+    ],
+    "newFeatures": [
+      {
+        "title": "Tính năng A",
+        "description": "Mô tả chi tiết về tính năng A.",
+        "releaseDate": "2024-09-25",
+        "videoUrls": [
+          "https://www.youtube.com/watch?v=example1",
+          "https://www.youtube.com/watch?v=example2"
+        ],
+        "images": [
+          "https://example.com/image1.png",
+          "https://example.com/image2.png"
+        ],
+        "subFeatures": [
+          {
+            "title": "Tính năng con A1",
+            "description": "Mô tả chi tiết về tính năng con A1."
+          },
+          {
+            "title": "Tính năng con A2",
+            "description": "Mô tả chi tiết về tính năng con A2."
+          }
+        ]
+      },
+      {
+        "title": "Tính năng B",
+        "description": "Mô tả chi tiết về tính năng B.",
+        "releaseDate": "2024-09-30",
+        "videoUrls": [
+          "https://www.youtube.com/watch?v=example3"
+        ],
+        "images": [
+          "https://example.com/image3.png"
+        ],
+        "subFeatures": [
+          {
+            "title": "Tính năng con B1",
+            "description": "Mô tả chi tiết về tính năng con B1."
+          }
+        ]
+      }
+    ]
+  }
+}

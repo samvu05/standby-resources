@@ -1,79 +1,91 @@
 {
   "appConfig": {
-    "appName": "Tên Ứng Dụng",
-    "lastVersionCode": 21,
-    "lastVersionName": "1.0.0",
-    "lastRelease": "23/20/2024",
-    "releaseNote": "",
-    "supportEmail": "support@example.com",
+    "appName": "StandBy",
+    "lastVersionCode": 30,
+    "lastVersionName": "3.0.0",
+    "lastRelease": "15/02/2025",
+    "releaseNote": "Trải nghiệm thiết kế iOS Liquid Glass mới và các tính năng đồng hồ chờ nâng cấp.",
+    "supportEmail": "support@samvd.com",
     "externalLinks": {
-      "companyLink": "https://example.com/company",
-      "developerLink": "https://example.com/privacy",
-      "privacyPolicy": "https://example.com/privacy",
-      "termsOfService": "https://example.com/terms"
+      "companyLink": "https://samvd.com",
+      "developerLink": "https://samvd.com/developer",
+      "privacyPolicy": "https://samvd.com/privacy",
+      "termsOfService": "https://samvd.com/terms"
     },
     "relatedApps": [
       {
-        "name": "QR scanner",
-        "cover": "https://example.com/terms",
-        "link": "https://play.store.com/app"
+        "name": "Pomodoro Timer & Focus",
+        "cover": "https://example.com/pomodoro_cover.png",
+        "link": "https://play.google.com/store/apps/details?id=com.samvd.standby"
       }
     ]
   },
-  "releaseNote": {
-    "developerMessage": "Cảm ơn bạn đã sử dụng ứng dụng của chúng tôi! Chúng tôi luôn nỗ lực để mang đến trải nghiệm tốt nhất cho người dùng.",
-    "upcomingFeatures": [
+  "currentVersion": {
+    "versionName": "3.0.0",
+    "releaseDate": "15/02/2025",
+    "title": "Bản cập nhật lớn - Giao diện iOS & Tính năng mới",
+    "description": "Trải nghiệm thiết kế Liquid Glass phong cách iOS sang trọng, hỗ trợ chế độ xoay dọc và nâng cấp trải nghiệm đồng hồ chờ.",
+    "features": [
       {
-        "title": "Tính năng 1",
-        "description": "Mô tả chi tiết về tính năng 1.",
-        "expectedReleaseDate": "2024-10-15"
+        "id": 1,
+        "title": "Chế độ Đồng hồ Dọc (Vertical Mode)",
+        "description": "Tự động điều chỉnh giao diện đồng hồ khi xoay ngang/dọc thiết bị, giúp bạn đặt điện thoại linh hoạt trên chân đế.",
+        "imageUrl": "img_intro_vertical",
+        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "icon": "ic_fullscreen_24"
       },
       {
-        "title": "Tính năng 2",
-        "description": "Mô tả chi tiết về tính năng 2.",
-        "expectedReleaseDate": "2024-11-05"
+        "id": 2,
+        "title": "Giao diện iOS Liquid Glass mới",
+        "description": "Giao diện kính trong suốt tinh tế với hiệu ứng mờ nhòe bối cảnh, bo góc mượt mà chuẩn phong cách iOS.",
+        "imageUrl": "img_intro_user_feedback",
+        "videoUrl": null,
+        "icon": "ic_star_shine"
+      },
+      {
+        "id": 3,
+        "title": "Nâng cấp Bấm giờ Pomodoro",
+        "description": "Giao diện tập trung làm việc trực quan hơn, tích hợp âm thanh tích tắc dịu nhẹ thư giãn.",
+        "imageUrl": "img_intro_new_pomodoro",
+        "videoUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+        "icon": "ic_pomodoro_focus"
+      },
+      {
+        "id": 4,
+        "title": "Hình nền Gradient & Tùy biến màu sắc",
+        "description": "Tùy chỉnh bảng màu độc đáo, bật/tắt hình nền nghệ thuật đa dạng theo sở thích riêng.",
+        "imageUrl": "img_intro_color_background",
+        "videoUrl": null,
+        "icon": "ic_table_lamp_24"
       }
-    ],
-    "newFeatures": [
+    ]
+  },
+  "nextVersion": {
+    "versionName": "3.1.0",
+    "expectedReleaseDate": "20/03/2025",
+    "title": "Dự kiến trong phiên bản 3.1.0",
+    "description": "Đội ngũ đang nỗ lực hoàn thiện các tính năng thông minh tiếp theo dành cho bạn.",
+    "expectedFeatures": [
       {
-        "title": "Tính năng A",
-        "description": "Mô tả chi tiết về tính năng A.",
-        "releaseDate": "2024-09-25",
-        "videoUrls": [
-          "https://www.youtube.com/watch?v=example1",
-          "https://www.youtube.com/watch?v=example2"
-        ],
-        "images": [
-          "https://example.com/image1.png",
-          "https://example.com/image2.png"
-        ],
-        "subFeatures": [
-          {
-            "title": "Tính năng con A1",
-            "description": "Mô tả chi tiết về tính năng con A1."
-          },
-          {
-            "title": "Tính năng con A2",
-            "description": "Mô tả chi tiết về tính năng con A2."
-          }
-        ]
+        "id": 101,
+        "title": "Widget AI Thông Minh & Thời Tiết Dynamic",
+        "description": "Hiển thị dự báo thời tiết theo thời gian thực và gợi ý câu nói truyền cảm hứng mỗi ngày.",
+        "icon": "ic_outline_tips_and_updates_24",
+        "status": "IN_DEVELOPMENT"
       },
       {
-        "title": "Tính năng B",
-        "description": "Mô tả chi tiết về tính năng B.",
-        "releaseDate": "2024-09-30",
-        "videoUrls": [
-          "https://www.youtube.com/watch?v=example3"
-        ],
-        "images": [
-          "https://example.com/image3.png"
-        ],
-        "subFeatures": [
-          {
-            "title": "Tính năng con B1",
-            "description": "Mô tả chi tiết về tính năng con B1."
-          }
-        ]
+        "id": 102,
+        "title": "Đồng bộ Cấu hình Cloud Backup",
+        "description": "Sao lưu và khôi phục tất cả cài đặt đồng hồ cá nhân của bạn trên nhiều thiết bị.",
+        "icon": "ic_baseline_restart_alt_24",
+        "status": "COMING_SOON"
+      },
+      {
+        "id": 103,
+        "title": "Trình điều khiển Nhạc Live Activity",
+        "description": "Hiển thị đĩa nhạc quay sinh động và sóng âm theo nhịp điệu bài hát đang phát.",
+        "icon": "ic_music_note_placeholder",
+        "status": "PLANNED"
       }
     ]
   }

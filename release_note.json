@@ -23,7 +23,7 @@
   "currentVersion": {},
   "nextVersion": {
     "versionName": "3.1.0",
-    "expectedReleaseDate": "20/03/2025",
+    "expectedReleaseDate": "20/03/2026",
     "title": "Dự kiến trong phiên bản 3.1.0",
     "description": "Đội ngũ đang nỗ lực hoàn thiện các tính năng thông minh tiếp theo dành cho bạn.",
     "expectedFeatures": [
@@ -36,7 +36,7 @@
       },
       {
         "id": 102,
-        "title": "Đồng bộ Cấu hình Cloud Backup",
+        "title": "Trình nghe nhạc Youtube",
         "description": "Sao lưu và khôi phục tất cả cài đặt đồng hồ cá nhân của bạn trên nhiều thiết bị.",
         "icon": "ic_baseline_restart_alt_24",
         "status": "COMING_SOON"
